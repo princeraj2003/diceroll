@@ -2,6 +2,7 @@ body{
     background-color: #146C94;
     margin: 100px;
     position: relative;
+    box-sizing: border-box ;
 }
 *{
     text-align: center;
